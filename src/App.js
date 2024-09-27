@@ -28,6 +28,8 @@ import Chatbot from "./components/Chatbot/Chatbot";
 
 
 
+import Chatbot from "./components/Chatbot/Chatbot";
+
 const Layout = () => {
   return (
     <div>
